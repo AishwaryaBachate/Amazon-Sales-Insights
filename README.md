@@ -55,9 +55,13 @@ Visualizations: Column Chart for Fulfillment Method Effectiveness, Pie Chart for
 **Key Insights and Recommendations**
 
  Total sales = 78.59M
+
  Order Count = 120K
+
  Average Order Value = 653.67
+
  Shipped Orders = 107K
+
  Optimize Fulfillment Strategies:
 
 Amazon Fulfillment vs. Merchant Fulfillment: Since products fulfilled by Amazon have
