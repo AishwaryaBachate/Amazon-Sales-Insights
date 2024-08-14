@@ -2,18 +2,18 @@
 
 **Amazon Sales Analysis Power BI Report**
 
-Project Overview
+**Project Overview**
 
 This project involves the analysis of Amazon sales data using Power BI. The goal is to provide actionable insights into sales performance, product trends, fulfillment efficiency, and customer behavior. The analysis is presented in a two-page Power BI report, with each page focusing on different aspects of the business.
 
-Data Sources
+**Data Sources**
 
 File: Amazon Sale Report.csv
 
 Description: The dataset includes detailed sales information such as order IDs, dates, statuses, fulfillment methods, sales channels, product categories, sizes, quantities sold, shipping details, and financial metrics like amount and currency.
 
 
-Data Processing Steps
+**Data Processing Steps**
 
 1. Data Collection
 
@@ -37,21 +37,22 @@ B2B Sales
 
 4. Data Analysis & Visualization
 
-Sales Performance Overview
+**Sales Performance Overview**
 
 Key metrics: Total Sales, Order Count, Average Order Value.
 
 Visualizations: Line Chart for Sales Trend, Column Chart for Sales by Channel, Pie Chart for Sales by Category, Bar Chart for Sales by Size, and a Table for Top Products.
 
 
-Operational and Customer Insights
+**Operational and Customer Insights**
 
 Key metrics: Shipped Orders, Cancellation Rate, B2B Sales.
 
 Visualizations: Column Chart for Fulfillment Method Effectiveness, Pie Chart for Order Status Distribution, Bar Chart for B2B vs B2C Segmentation, Map for Geographical Sales Distribution.
 
 
-Key Insights and Recommendations
+
+**Key Insights and Recommendations**
 
  Optimize Fulfillment Strategies:
 
@@ -94,6 +95,6 @@ value compared to those fulfilled by Amazon. Explore ways to increase the averag
 order value for Amazon-fulfilled orders, such as bundling products, offering discounts on
 larger purchases, or promoting premium products
 
-Conclusion
+**Conclusion**
 
 This Power BI report provides a comprehensive analysis of Amazon sales data, offering valuable insights into sales trends, product performance, fulfillment efficiency, and customer behavior. By following a structured data analysis process, the report delivers actionable recommendations to enhance business performance.
