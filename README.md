@@ -1,6 +1,6 @@
 # Amazon-Sales-Insights
 
-Amazon Sales Analysis Power BI Report
+**Amazon Sales Analysis Power BI Report**
 
 Project Overview
 
